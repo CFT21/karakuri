@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 6726d6bf56f21874690b09418fe7299d
+  productGUID: 7b1203f2d2fac3e4f959b571c9a1ea8b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: "\u304B\u3089\u304F\u308A\u9928\u3068\u9589\u3056\u3055\u308C\u305F\u6249"
+  productName: karakuri
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -631,14 +631,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: "\u304B\u3089\u304F\u308A\u9928\u3068\u9589\u3056\u3055\u308C\u305F\u6249"
+  metroPackageName: karakuri
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: "\u304B\u3089\u304F\u308A\u9928\u3068\u9589\u3056\u3055\u308C\u305F\u6249"
+  metroApplicationDescription: karakuri
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -707,12 +707,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4db3959f-099d-4f8d-a95a-42f31e01e4ff
+  cloudProjectId: 68123c34-fffd-4ae7-9eb5-c880c05a7870
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: "\u304B\u3089\u304F\u308A\u9928\u3068\u9589\u3056\u3055\u308C\u305F\u6249
-    2026-10-20_16-43-55"
-  organizationId: matumorikousuke
+  projectName: karakuri 2026-11-19_12-39-45
+  organizationId: funamoto-i-37b25
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
